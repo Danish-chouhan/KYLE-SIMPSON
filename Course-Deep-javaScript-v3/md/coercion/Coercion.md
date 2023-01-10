@@ -41,5 +41,3 @@ const val = Number(num2);
 console.log(val);
 
 ```
-
-## For More Information Click Below:-
