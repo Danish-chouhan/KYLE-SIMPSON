@@ -20,10 +20,10 @@ document.write(d)
 
 > then in line number (4) i (returned) (c) becouse the value of (d) is assings to (c)
 
-> now in line number (5) i give a value to (d) d automaticaly assings to (c)
+> now in line number (5) i give a value to (d) d eautomaticaly assings to (c)
 
 > then i call them 
 
-## This is the right way to understand the code 
+## This is the right way to understand th code 
 ---
 # THE END
