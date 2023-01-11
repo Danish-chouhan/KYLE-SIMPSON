@@ -1,6 +1,6 @@
 var a = 10
 
-a++ //this is increment
+a++ //this is post increment
 document.write(a + "<br>")
 
 ++a //this is pre increment
