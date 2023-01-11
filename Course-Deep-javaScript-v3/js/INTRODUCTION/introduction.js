@@ -1,14 +1,13 @@
 var a = 10
+
 a++ //this is increment
 document.write(a + "<br>")
+
 ++a //this is pre increment
 document.write(a + "<br>")
  //increment means a++ => (a + 1)
 
-// kylesimpson say there is no differense between
-
 // --**--
-
 
 var b = '1'
 b = b + 1 //  when we use this style of increment then tis will not increment it will concat there integers
