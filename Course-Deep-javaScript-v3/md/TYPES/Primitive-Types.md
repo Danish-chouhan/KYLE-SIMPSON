@@ -1,21 +1,39 @@
 # PRIMITIVE TYPES
-> ___KYLE SIMPSON___ - Said that are are some type who can behave like that the are a object but in real time they was only look like but not in real js so in this we know about primitive and non primitive types 
+> ___KYLE SIMPSON___ - Said that are are some type who can behave like that they are a object but in real time they was only look like but not in real js so in this we know about primitive and non primitive types 
 PRIMITIVE MEANS (prachin)
-
-## primitive TYPES
-> | UNDIFINED | NUMBER | STRING | BOLEAN |OBJECT | SYMBOL |
-
+---
+## Primitive TYPES
+* UNDIFINED
+* NUMBER
+* STRING
+* BOOLEAN
+* OBJECT
+* SYMBOL
+--- 
 ## OTHER TYPES
-> |UNDECLARED?|NULL?|FUNCTION?|ARRAY?|BRIGHT?|
-
+* UNDECLARED?
+* NULL?
+* FUNCTION?
+* ARRAY?
+* BRIGHT?
+---
 > now we learn that what is primitive and nin primitive
 
 ## which are object or which are not
 
-## object types
-> | OBJECT | function | array |
+## Non Primitive / object types
 
-## not a object
-> | undefined | string | number | boolean | object | symbol | null |
+* OBJECT
+* function
+* array
 
+##  Primitive / Not A Object
+* undefined
+* string
+* number
+* boolean
+* object
+* symbol
+* null
+---
 > these are behave like that they are object but in real js they were not
