@@ -10,3 +10,6 @@
 
 ---
 # -___TYPES___
+
+[PRIMITIVE-TYPES](./Course-Deep-javaScript-v3/js/TYPES/Primitive-Types.js)
+
