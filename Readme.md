@@ -14,3 +14,5 @@
 [PRIMITIVE-TYPES](./Course-Deep-javaScript-v3/js/TYPES/Primitive-Types.js)
 
 [typeof-Operator](./Course-Deep-javaScript-v3/js/TYPES/typeof-operator.js)
+
+[BigInt](./Course-Deep-javaScript-v3/js/TYPES/BigInt.js)
