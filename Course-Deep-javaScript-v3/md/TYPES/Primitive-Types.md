@@ -32,8 +32,9 @@ PRIMITIVE MEANS (prachin)
 * string
 * number
 * boolean
-* object
+* BigInt
 * symbol
 * null
+* infinity
 ---
 > these are behave like that they are object but in real js they were not
