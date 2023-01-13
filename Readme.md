@@ -16,3 +16,6 @@
 [TYPEOF-OPERATOR](./Course-Deep-javaScript-v3/js/TYPES/typeof-operator.js)
 
 [BIGINT](./Course-Deep-javaScript-v3/js/TYPES/BigInt.js)
+
+[KINDS-OF_EMPTINESS](./Course-Deep-javaScript-v3/js/TYPES/kinds-of-empetines.js)
+
