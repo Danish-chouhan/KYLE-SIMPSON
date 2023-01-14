@@ -19,3 +19,6 @@
 
 [KINDS-OF_EMPTINESS](./Course-Deep-javaScript-v3/js/TYPES/kinds-of-empetines.js)
 
+[NaN-and-isNaN](./Course-Deep-javaScript-v3/js/TYPES/NaN.isNaN.js)
+
+[NAGETIVE-ZERO](./Course-Deep-javaScript-v3/js/TYPES/Nagative-Zero.js)
