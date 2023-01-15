@@ -1,34 +1,33 @@
 // PRIMITIVE TYPES
 var a;
-document.write(typeof a + "<br>")
+console.log(typeof a  )
 
 a = 17
-document.write(typeof a + "<br>")
+console.log(typeof a  )
 
 a = "Danish"
-document.write(typeof a + "<br>")
+console.log(typeof a  )
 
 a = {}
-document.write(typeof a + "<br>")
+console.log(typeof a  )
 
 a = true
-document.write(typeof a + "<br>")
+console.log(typeof a )
 
 a = Symbol()
-document.write(typeof a + "<br>")
-
+console.log(typeof a)
 //   ---***---
 // OTHER TYPES
 
-document.write(typeof doesntexist + "<br>")
+console.log(typeof doesntexist  )
 
 v = null
-document.write(typeof v + "<br>")
+console.log(typeof v  )
 
 v = function(){}
 
-document.write(typeof v + "<br>")
+console.log(typeof v  )
 
 v = [1,2,3,4,5]
 
-document.write(typeof v + "<br>")
+console.log(typeof v  )

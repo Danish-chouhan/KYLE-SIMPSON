@@ -2,7 +2,7 @@
 > ___KYLE SIMPSON___ - Said that are are some type who can behave like that they are a object but in real time they was only look like but not in real js so in this we know about primitive and non primitive types 
 PRIMITIVE MEANS (prachin)
 ---
-## Primitive TYPES
+## Primitive TYPES (Prachin)
 * UNDIFINED
 * NUMBER
 * STRING

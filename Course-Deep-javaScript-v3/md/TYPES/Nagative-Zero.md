@@ -29,3 +29,26 @@ console.log(Object.is(danish,0)); // false
 > in line number 10 i ask that variable is equals to -0 then it returns true
 
 ---
+
+# Example with math.sing()
+
+# Syntax
+
+```javascript
+
+console.log(Math.sign(-3));
+console.log(Math.sign(3))
+console.log(Math.sign(-0));
+console.log(Math.sign(0));
+
+function chouhan(x){
+    return x !== 0 ? Math.sign(x) : Object.is(x,-0)? -1 : 1;
+}
+
+console.log(chouhan(-3));
+console.log(chouhan(3));
+console.log(chouhan(0));
+console.log(chouhan(-0))
+```
+> the math sing mathod always returns you (1) or (0)
+if we use -0 then it will re
