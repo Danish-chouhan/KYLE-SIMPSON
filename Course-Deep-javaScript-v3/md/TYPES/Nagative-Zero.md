@@ -51,4 +51,38 @@ console.log(chouhan(0));
 console.log(chouhan(-0))
 ```
 > the math sing mathod always returns you (1) or (0)
-if we use -0 then it will re
+if we give value of number upon 1 then it will returns us 1 this will not give you exit value it will changed by one if we putted value in 0 zeros then it will be zero becouse math.sing always returns (0,1) if we putted value in negative form then it will returns you in nagative like -0 , -1 
+
+---
+
+# Example in arrrow form
+
+# Syntax
+
+```javascript
+function DanishChouhan(z){
+    var direction = 
+    (z < 0 || Object.is(z,-0)) ? "⇓" : "⇑"; // these arrowa are png only
+    return `${direction} ${Math.abs(z)}`
+}
+console.log(DanishChouhan(-3))
+console.log(DanishChouhan(3))
+console.log(DanishChouhan(-0))
+console.log(DanishChouhan(0))
+```
+
+> I test -0 with the help of logical operator,object.is,math.abs methods
+so i m going to tell you how is this method
+
+> in line no (1st) a maked a functon names (DanishChouhan) and give him a parameter name (z)
+
+> in line number (2nd) i make a variable named direction 
+
+> in line number (3rd) i maked logical operator (z < 0 || Object.is(z,-0)) ? "⇓" : "⇑";
+these is saying if the parameter z is less then 0 then paste down word arraw and if parameter z is greter then 0 then returns up word arrow
+
+> then i return them i returns 1st variable then i want abolute value 
+
+> in calling i gived -3 in parameter then it will returns me down words arrow and then absolute value
+
+# THE END
