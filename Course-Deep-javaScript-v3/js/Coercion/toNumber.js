@@ -11,3 +11,4 @@ const toUndefined = Number(undefined); //0
 const nestedArr = Number([[[[]]]]); // 0, it become empty string first;
 const nullToBoolean = Boolean(null) // false, we saw it before the value of null is 0 and the boolean considered 0 in false;
 const undefinedToBoolean = Boolean(undefined) //false, same thing which has we saw over null;
+//
