@@ -21,4 +21,4 @@ There are two categories of data types -
 * Functions
 
 ## For More Information Click Below :-
-[Types](../Js/types/)
+[Types](../js/types/)
