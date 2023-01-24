@@ -31,4 +31,4 @@ console.log(11 === '11');
 (===) disallows Coercion if the data tpes are same.
 
 ## For More Information Click Below:-
-[Equality](../Js/Equality/)
+[Equality](../js/Equality/)
