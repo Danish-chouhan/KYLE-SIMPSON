@@ -25,4 +25,4 @@ Function scope means that parameters and variables defined in a function are vis
 Lexical scope is tha ability of the inner function to access the outer scope in which is defined.
 
 ## For More Information Click Below :-
-[Scopes](../Js/Scope/)
+[Scopes](../js/Scope/)
