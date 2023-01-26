@@ -54,4 +54,4 @@ var arrowfunction = (a, b) => a * b;
 
 ## For More Information Click Below:-
 
-[Scopes & Function Expressions](../Js/Scope%20and%20Function%20Expression/)
+[Scopes & Function Expressions](../js/Scope%20and%20Function%20Expression/)
