@@ -153,4 +153,4 @@ console.log(a);
 var a = 5; //undefined
 ```
 
-[For More Informatiion About Advance Scope](../Js/Advance%20Scope/)
+[For More Informatiion About Advance Scope](../js/Advance%20Scope/)
