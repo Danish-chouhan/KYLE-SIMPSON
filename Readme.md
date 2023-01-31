@@ -1,1 +1,1 @@
-# [Course-Deep-Javascript-v3](./Course-Deep-javaScript-v3/)
+# [Course-Deep-JavaScript-v3](./Course-Deep-javaScript-v3/)
