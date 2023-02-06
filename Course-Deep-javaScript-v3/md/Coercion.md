@@ -43,7 +43,7 @@ console.log(val);
 ```
 
 ## For More Information Click Below:-
-[Coercion](../js/Coercion/)
+[Coercion](../Js/Coercion/)
 
 ## For Philosophy of Coercion Click Below :-
 [Philosophy](../js/Philosophy%20of%20Coercion/)

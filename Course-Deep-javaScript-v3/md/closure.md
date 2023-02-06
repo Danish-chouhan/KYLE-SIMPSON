@@ -55,4 +55,4 @@ console.log(usersalary);
 ```
 
 ## For More Information Click Below :-
-[closure and module](../Js/Closure/)
+[closure and module](../js/Closure/)
